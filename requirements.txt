@@ -1,0 +1,7 @@
+
+aiogram
+asyncssh
+aiofiles
+python-dotenv
+apscheduler
+python-dateutil
